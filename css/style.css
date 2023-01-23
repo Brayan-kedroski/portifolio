@@ -24,8 +24,9 @@ body {
     border-radius: 200px;
 
 }
-table{
-    background-color: aqua;
+
+#info {
+    background-color: #121940;
     min-width: 116vh;
     height: 300px;
     justify-content: center;
