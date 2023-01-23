@@ -6,6 +6,7 @@
     margin: 0;
     box-sizing: border-box;
 
+
 }
 
 body {
@@ -26,9 +27,20 @@ body {
 }
 
 #info {
+    padding: 10px;
     background-color: #121940;
-    min-width: 116vh;
+    min-width:100vh;
     height: 300px;
     justify-content: center;
+    border-radius: 60px;
+
+
+}
+
+#projetos{
+
+    position: fixed;
+  margin-top: 350px;
+
 
 }
