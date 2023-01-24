@@ -1,46 +1,46 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
 
 * {
-    font-family: 'Roboto', sans-serif;
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-
-
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 body {
-    padding: 0;
-    box-sizing: border-box;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    background-color: #030640;
-    color: #9295A6;
+  padding: 0;
+  box-sizing: border-box;
+  min-height: 100vh;
+
+  justify-content: center;
+  background-color: #030640;
+  color: #9295a6;
 }
 
 .perfil {
-    max-width: 150px;
-    max-height: 200px;
-    border-radius: 200px;
-
+  max-width: 150px;
+  max-height: 200px;
+  border-radius: 200px;
 }
 
 #info {
-    padding: 10px;
-    background-color: #121940;
-    min-width:100vh;
-    height: 300px;
-    justify-content: center;
-    border-radius: 60px;
+  padding: 10px;
+  background-color: #121940;
+  min-width: 100vw;
 
-
+  justify-content: center;
+  border-radius: 60px;
 }
 
-#projetos{
-
-    position: fixed;
-  margin-top: 350px;
-
-
+#projetos {
+  margin-top: 200px;
 }
+td {
+  padding: 30px;
+}
+#projetos {
+  text-align: center;
+}
+
+
+
